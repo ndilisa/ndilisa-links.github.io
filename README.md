@@ -8,7 +8,7 @@ This project uses plain HTML and CSS to recreate a dark-themed profile card with
 
 ## Demo
 
-Open `index.html` in your browser or use a local development server to see the profile card.
+Click Here - https://ndilisa.github.io/ndilisa-links.github.io/
 
 ---
 
