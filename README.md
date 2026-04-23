@@ -70,4 +70,3 @@ Click Here - https://ndilisa.github.io/ndilisa-links.github.io/
 Project created for a Frontend Mentor challenge.
 
 Design inspired by the Social links profile challenge and the provided assets.
-f
